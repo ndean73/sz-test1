@@ -1,3 +1,3 @@
 # sz-test1
 
-* Keith Williams
+1. Keith Williams
